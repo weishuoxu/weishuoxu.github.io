@@ -58,4 +58,4 @@ Example: editing a Markdown file for a talk
 For more info
 ------
 
-Get in touch at [weishuo.xu@sydney.edu.au] <weishuo.xu@sydney.edu.au>
+Get in touch at <weishuo.xu@sydney.edu.au>
